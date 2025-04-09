@@ -5,5 +5,4 @@
 
 Создано с использованием Js - p5, изображения сгенерированы ИИ.
 
-[](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdtaHB4Yjk2N3o2MDNsa3Zzemp5MXdxd3ByamVucmVzdm1weXdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7hiIHVTuZaRrXqMQ9/giphy.gif)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdtaHB4Yjk2N3o2MDNsa3Zzemp5MXdxd3ByamVucmVzdm1weXdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7hiIHVTuZaRrXqMQ9/giphy.gif"/>
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdtaHB4Yjk2N3o2MDNsa3Zzemp5MXdxd3ByamVucmVzdm1weXdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7hiIHVTuZaRrXqMQ9/giphy.gif)
